@@ -1,0 +1,6 @@
+numpy
+tensorflow
+matplotlib
+opencv-python
+h5py
+scikit-learn
